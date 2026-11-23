@@ -1,0 +1,7 @@
+                            spec  variable   coef    se     p  pct_effect     N
+Baseline (both codes, 2002-2019)      sanc -2.038 0.602 0.001     -86.967 54049
+Baseline (both codes, 2002-2019) post_norm -1.797 0.543 0.001     -83.416 54049
+      Fresh salmon only (030212)      sanc -3.509 0.576 0.000     -97.007 38834
+      Fresh salmon only (030212) post_norm -3.152 0.558 0.000     -95.724 38834
+        Short window (2006-2019)      sanc -2.110 0.654 0.001     -87.878 40643
+        Short window (2006-2019) post_norm -1.859 0.594 0.002     -84.410 40643

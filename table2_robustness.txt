@@ -1,0 +1,11 @@
+                      spec  variable   coef    se     p  pct_effect     N  pairs
+                  Baseline      sanc -1.938 0.612 0.002     -85.600 54049   3472
+                  Baseline post_norm -1.697 0.559 0.002     -81.680 54049   3472
+Fresh salmon only (030212)      sanc -3.582 0.641 0.000     -97.218 38834   2586
+Fresh salmon only (030212) post_norm -3.225 0.634 0.000     -96.025 38834   2586
+      Excl. 2007 (NOR-CHN)      sanc -1.811 0.612 0.003     -83.656 54049   3472
+      Excl. 2007 (NOR-CHN) post_norm -1.571 0.560 0.005     -79.209 54049   3472
+       Reference 2008-2009      sanc -1.880 0.716 0.009     -84.736 54049   3472
+       Reference 2008-2009 post_norm -1.639 0.655 0.012     -80.582 54049   3472
+  China + Hong Kong merged      sanc -1.559 0.518 0.003     -78.957 53089   3417
+  China + Hong Kong merged post_norm -1.830 0.486 0.000     -83.956 53089   3417

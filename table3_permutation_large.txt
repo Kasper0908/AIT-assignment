@@ -1,0 +1,2 @@
+placebo set  n placebos  true coef  placebo mean  placebo median  placebos <= true  p (r+1)/(N+1)  true minus placebo mean
+      large          91     -1.938        -0.203          -0.215                 4          0.054                   -1.735
